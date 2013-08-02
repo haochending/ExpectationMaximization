@@ -1,0 +1,96 @@
+TExpectationMaximization
+v5
+r1
+cCheck dependencies
+cCompileC build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.o /Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/ExpectationMaximization normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BCC98F00000000000000AA
+t1371326863
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/math.h
+c0000000051082DD200000000000066C2
+t1359490514
+s26306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdio.h
+c0000000051082DD30000000000004523
+t1359490515
+s17699
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/stdlib.h
+c0000000051082DD30000000000003089
+t1359490515
+s12425
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/sys/time.h
+c0000000051082DD30000000000001E64
+t1359490515
+s7780
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/usr/include/time.h
+c0000000051082DD3000000000000178E
+t1359490515
+s6030
+
+N/Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp
+c0000000051F737750000000000004AAF
+t1375156085
+s19119
+i<stdlib.h>
+i<stdio.h>
+i<iostream>
+i<fstream>
+i<string>
+i<vector>
+i<math.h>
+i<sstream>
+i<algorithm>
+i<time.h>
+i<sys/time.h>
+
+N/Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/ExpectationMaximization
+t1375156089
+s102412
+
+N/Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/ExpectationMaximization.LinkFileList
+c0000000051F04F1D00000000000000A0
+t1374703389
+s160
+
+N/Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.o
+t1375156088
+s307208
+
+CBuild AST from /Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7decca4e73a7b741^266fcc4e73a7b741^---0#1#0#--18"Check dependencies36"1423D06E-D081-417E-85B0-98A3B694E17E-
+
+CCompileC build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.o /Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s396848887.902454
+e396848888.902819
+r1
+xCompileC
+xbuild/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.o
+x/Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp2098e7f76ea7b741^d11ee7f86ea7b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp0000000000000000^3378"CompileC build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.o ExpectationMaximization/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/haochending/Documents/CS486/ExpectationMaximization    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/ExpectationMaximization-generated-files.hmap -I/Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/ExpectationMaximization-own-target-headers.hmap -I/Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/ExpectationMaximization-all-target-headers.hmap -iquote /Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/ExpectationMaximization-project-headers.hmap -I/Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/DerivedSources/x86_64 -I/Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/DerivedSources -F/Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug -MMD -MT dependencies -MF /Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.dia -c /Users/haochending/Documents/CS486/ExpectationMaximization/ExpectationMaximization/main.cpp -o /Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/main.o36"DABB95FA-59B9-4A85-B720-BF089A5F6A61-
+
+CLd /Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/ExpectationMaximization normal x86_64
+s396848888.909706
+e396848889.014428
+r1
+xLd
+x/Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/ExpectationMaximization
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Link /Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/ExpectationMaximizationd8f4e8f86ea7b741^8eb103f96ea7b741^---0#0#0#--866"Ld build/Debug/ExpectationMaximization normal x86_64    cd /Users/haochending/Documents/CS486/ExpectationMaximization    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug -F/Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug -filelist /Users/haochending/Documents/CS486/ExpectationMaximization/build/ExpectationMaximization.build/Debug/ExpectationMaximization.build/Objects-normal/x86_64/ExpectationMaximization.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -o /Users/haochending/Documents/CS486/ExpectationMaximization/build/Debug/ExpectationMaximization36"B1E688EF-C484-4545-A662-6E8BC387D77A-
+
