@@ -58,7 +58,7 @@ CPT Dunetts, Sloepnea, Foriennditis, Degar, TRIMONO;
 // array of all the CPTs
 CPT *CPTs;
 // array of the results for the trials
-double results[20][10];
+double results[20][20];
 
 int readData(string filename) {
     string line;
